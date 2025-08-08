@@ -1,3 +1,4 @@
 tidyverse
 janitor
 mwana
+ggplot2
