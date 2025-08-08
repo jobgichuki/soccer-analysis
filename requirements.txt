@@ -2,3 +2,4 @@ tidyverse
 janitor
 mwana
 ggplot2
+pacman
